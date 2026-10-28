@@ -1,0 +1,16 @@
+{
+  "name": "Reco Bladers Studios",
+  "short_name": "Reco Bladers",
+  "description": "Stories. Worlds. Legends.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#080b16",
+  "theme_color": "#080b16",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "640x640",
+      "type": "image/png"
+    }
+  ]
+}
